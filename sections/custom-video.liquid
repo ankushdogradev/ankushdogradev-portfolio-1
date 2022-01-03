@@ -1,0 +1,94 @@
+
+<style>
+    html {
+  box-sizing: border-box;
+  height: 100%;
+}
+*, *:before, *:after {
+  box-sizing: inherit;
+}
+body {
+  height: 100%;
+  margin: 0;
+}
+
+.hero{
+    width: 100%;
+    height:100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    color: #fff;
+}
+
+.hero .hero-text h1 {
+    color: #fff;
+    font-weight: 700;
+    font-size: 5em;
+}
+
+.hero-btn {
+   background: #fcfcfc;
+   padding: 1.5rem 2rem;
+   -webkit-border-radius: 10px;
+   -moz-border-radius: 10px;
+   border-radius: 10px;
+   color: #000000;
+   font-size: 5rem;
+   font-weight: 700;
+   text-decoration: none;
+   vertical-align: middle;
+   }
+.hero-btn:hover {
+   background: #000000;
+   color: #ffffff;
+   }
+.hero-btn:active {
+   background: #383838;
+   padding: 2rem 2.5rem;
+   font-size: 6rem;
+   }
+
+.video-wrapper {
+  width:100%;
+  height:100vh;
+  overflow: hidden;
+  position: absolute;
+  z-index: -1;
+}
+
+.video-wrapper  video {
+    object-fit: cover;
+    width: 100%;
+    height: 100%;
+  }
+
+</style>
+
+<div class="hero">
+    <div class="hero-text">
+        <h1>Explore Moonfox Collection</h1>
+    </div>
+    <a href="https://ankushdogradev-portfolio-1.myshopify.com/collections/all" class="hero-btn">Shop all</a>
+    
+    <div class="video-wrapper">
+        <video autoplay muted loop playsinline preload="metadata">
+            <source src="https://cdn.shopify.com/s/files/1/0610/2102/8531/files/video.mp4?v=1641206386" type="video/mp4">
+        </video>
+    </div>
+</div>
+
+
+{% schema %}
+{
+    "name": "Hero-Video",
+    "presets": [
+        {
+            "category": "Hero Video",
+            "name":"Hero Video"
+        }
+    ]
+}
+{% endschema %}
