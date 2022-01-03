@@ -47,7 +47,8 @@
           "97abd35c-01ec-44fb-a6e6-2d2fd4223d50": {
             "type": "image",
             "settings": {
-              "image_width": 100,
+              "image": "shopify:\/\/shop_images\/logo.png",
+              "image_width": 165,
               "alignment": "center"
             }
           },
