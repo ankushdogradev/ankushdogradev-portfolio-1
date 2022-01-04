@@ -2,8 +2,7 @@
   "sections": {
     "1641209549830cbeb2": {
       "type": "custom-video",
-      "settings": {
-      }
+      "settings": {}
     },
     "image_banner": {
       "type": "image-banner",
@@ -11,7 +10,7 @@
         "37c643e0-0fa8-44d8-bd47-ebf9b6c84779": {
           "type": "heading",
           "settings": {
-            "heading": "Light As Feather, Strong as Diamond",
+            "heading": "LIGHT AS FEATHER, STRONG AS DIAMOND",
             "heading_size": "medium"
           }
         }
