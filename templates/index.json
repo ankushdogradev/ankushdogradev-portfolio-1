@@ -8,7 +8,6 @@
     "image_banner": {
       "type": "image-banner",
       "settings": {
-        "image": "shopify:\/\/shop_images\/Untitled_design.png",
         "image_overlay_opacity": 0,
         "image_height": "large",
         "adapt_height_first_image": true,
@@ -44,7 +43,7 @@
         "16412128086569b8aa-1"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/description-2.jpg",
+        "image": "shopify:\/\/shop_images\/Featured_Image_1.png",
         "height": "adapt",
         "desktop_image_width": "large",
         "layout": "image_first",
@@ -86,7 +85,7 @@
         "1641212985b04229ee-2"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/description-3.jpg",
+        "image": "shopify:\/\/shop_images\/Featured_Image_2.png",
         "height": "adapt",
         "desktop_image_width": "large",
         "layout": "text_first",
@@ -128,7 +127,7 @@
         "16412130758bc934b5-2"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/description-1_98c71cda-c122-40ac-b484-28a4ba00eee2.jpg",
+        "image": "shopify:\/\/shop_images\/Featured_Image_3.png",
         "height": "adapt",
         "desktop_image_width": "large",
         "layout": "image_first",
@@ -158,8 +157,6 @@
     "164121524695fa28cd": {
       "type": "image-banner",
       "settings": {
-        "image": "shopify:\/\/shop_images\/mat-comblang--vHJQY7AdX4-unsplash.jpg",
-        "image_2": "shopify:\/\/shop_images\/accessaries.jpg",
         "image_overlay_opacity": 0,
         "image_height": "large",
         "adapt_height_first_image": false,
