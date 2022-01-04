@@ -159,6 +159,7 @@
       "type": "image-banner",
       "settings": {
         "image": "shopify:\/\/shop_images\/mat-comblang--vHJQY7AdX4-unsplash.jpg",
+        "image_2": "shopify:\/\/shop_images\/accessaries.jpg",
         "image_overlay_opacity": 0,
         "image_height": "large",
         "adapt_height_first_image": false,
