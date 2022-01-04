@@ -1,0 +1,58 @@
+{{ 'section-specification.css' | asset_url | stylesheet_tag }}
+
+<section class="spec">
+    <div class="spec__title">
+        <h2>SPECIFICATIONS</h2>
+    </div>
+    <div class="spec__card-list">
+        <div class="spec__card">
+            <h1>Frameset</h1>
+            <ul>
+                <li>Sizes:</li>
+                <li>Frame:</li>
+                <li>Front Suspension:</li>
+            </ul>
+        </div>
+
+        <div class="spec__card">
+            <h1>Drivetrain</h1>
+            <ul>
+                <li>Crankset:</li>
+                <li>BB Set:</li>
+                <li>Freewheel:</li>
+                <li>Pedals:</li>
+            </ul>
+        </div>
+
+        <div class="spec__card">
+            <h1>Wheels</h1>
+            <ul>
+                <li>Wheels:</li>
+                <li>Tires:</li>
+            </ul>
+        </div>
+
+        <div class="spec__card">
+            <h1>Components</h1>
+            <ul>
+                <li>Seat Post:</li>
+                <li>Handlebar:</li>
+                <li>Stem:</li>
+                <li>Headset:</li>
+                <li>Brakeset:</li>
+            </ul>
+        </div>
+    </div>
+</div>
+
+{% schema %}
+{
+   "name": "Product Specification",
+  "presets": [
+      {
+          "category": "specifications",
+          "name":"Cycle Specifications"
+      }
+  ]
+}
+{% endschema %}
