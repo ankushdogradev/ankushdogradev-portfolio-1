@@ -8,38 +8,38 @@
         <div class="spec__card">
             <h1>Frameset</h1>
             <ul>
-                <li>Sizes:</li>
-                <li>Frame:</li>
-                <li>Front Suspension:</li>
+                <li>Sizes: {{ product.metafields.my_fields.sizes }}</li>
+                <li>Frame: {{ product.metafields.my_fields.frame }}</li>
+                <li>Front Suspension: {{ product.metafields.my_fields.front_suspension }}</li>
             </ul>
         </div>
 
         <div class="spec__card">
             <h1>Drivetrain</h1>
             <ul>
-                <li>Crankset:</li>
-                <li>BB Set:</li>
-                <li>Freewheel:</li>
-                <li>Pedals:</li>
+                <li>Crankset: {{ product.metafields.my_fields.crankset }}</li>
+                <li>BB Set: {{ product.metafields.my_fields.b_b_set }}</li>
+                <li>Freewheel: {{ product.metafields.my_fields.freewheel }}</li>
+                <li>Pedals: {{ product.metafields.my_fields.pedals }}</li>
             </ul>
         </div>
 
         <div class="spec__card">
             <h1>Wheels</h1>
             <ul>
-                <li>Wheels:</li>
-                <li>Tires:</li>
+                <li>Wheels: {{ product.metafields.my_fields.wheels }}</li>
+                <li>Tires: {{ product.metafields.my_fields.tires }}</li>
             </ul>
         </div>
 
         <div class="spec__card">
             <h1>Components</h1>
             <ul>
-                <li>Seat Post:</li>
-                <li>Handlebar:</li>
-                <li>Stem:</li>
-                <li>Headset:</li>
-                <li>Brakeset:</li>
+                <li>Seat Post: {{ product.metafields.my_fields.seat_post }}</li>
+                <li>Handlebar: {{ product.metafields.my_fields.handlebar }}</li>
+                <li>Stem: {{ product.metafields.my_fields.stem }}</li>
+                <li>Headset: {{ product.metafields.my_fields.headset }}</li>
+                <li>Brakeset: {{ product.metafields.my_fields.brakeset }}</li>
             </ul>
         </div>
     </div>
@@ -47,7 +47,7 @@
 
 {% schema %}
 {
-   "name": "Product Specification",
+   "name": "Cycle Specification",
   "presets": [
       {
           "category": "specifications",
