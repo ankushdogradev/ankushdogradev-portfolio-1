@@ -158,8 +158,10 @@
     "164121524695fa28cd": {
       "type": "image-banner",
       "settings": {
-        "image_overlay_opacity": 0,
-        "image_height": "large",
+        "image": "shopify:\/\/shop_images\/Accessaries-1.png",
+        "image_2": "shopify:\/\/shop_images\/Accessaries-2_B_W.png",
+        "image_overlay_opacity": 20,
+        "image_height": "small",
         "adapt_height_first_image": false,
         "desktop_content_position": "middle-center",
         "show_text_box": true,
