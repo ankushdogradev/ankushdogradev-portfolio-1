@@ -16,7 +16,8 @@
         overflow-x: auto;
 
         @media (max-width: 1200px) {
-            overflow-x: auto;
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
         }
 
         &::-webkit-scrollbar {
@@ -55,6 +56,11 @@
 
         &:not(:first-child) {
             margin-left: -130px;
+
+            @media (max-width: 1200px) {
+                margin-left: 0;
+                margin-top: 2rem;
+            }
         }
 
         h1 {
