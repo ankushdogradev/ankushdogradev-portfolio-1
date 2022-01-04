@@ -21,7 +21,7 @@
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/banner_image.png",
-        "image_overlay_opacity": 0,
+        "image_overlay_opacity": 20,
         "image_height": "large",
         "adapt_height_first_image": true,
         "desktop_content_position": "middle-center",
