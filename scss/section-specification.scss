@@ -79,3 +79,12 @@
 
     }
 }
+
+.spec-head-color {
+    font-weight: 700;
+    text-transform: uppercase;
+
+    &:hover {
+        color: #FD5722;
+    }
+}
