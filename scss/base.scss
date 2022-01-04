@@ -2022,16 +2022,26 @@ input[type='checkbox'] {
 }
 
 .header__icon .icon {
-  height: 2rem;
-  width: 2rem;
+  height: 3rem;
+  width: 3rem;
   fill: none;
   vertical-align: middle;
+
+  @media screen and (max-width: 749px) {
+    height: 2rem;
+    width: 2rem;
+  }
 }
 
 .header__icon,
 .header__icon--cart .icon {
-  height: 4.4rem;
-  width: 4.4rem;
+  height: 6rem;
+  width: 6rem;
+
+  @media screen and (max-width: 749px) {
+    height: 4.4rem;
+    width: 4.4rem;
+  }
 }
 
 .header__icon--cart {
@@ -2197,6 +2207,12 @@ details[open]>.header__icon--menu .icon-hamburger {
   margin-left: -1.2rem;
   grid-area: navigation;
   display: none;
+
+  a {
+    font-weight: 700;
+    text-transform: uppercase;
+    font-size: 1.5em;
+  }
 }
 
 .header--top-center .header__inline-menu,

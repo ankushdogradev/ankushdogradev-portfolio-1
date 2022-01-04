@@ -399,6 +399,10 @@
     font-weight: 700;
     font-size: 5em;
     color: #FD5722;
+
+    @media screen and (max-width: 749px) {
+      font-size: 3em;
+    }
   }
 
   &.h0 {
