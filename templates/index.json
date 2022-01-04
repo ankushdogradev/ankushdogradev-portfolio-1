@@ -7,6 +7,18 @@
     },
     "image_banner": {
       "type": "image-banner",
+      "blocks": {
+        "37c643e0-0fa8-44d8-bd47-ebf9b6c84779": {
+          "type": "heading",
+          "settings": {
+            "heading": "Light As Feather, Strong as Diamond",
+            "heading_size": "medium"
+          }
+        }
+      },
+      "block_order": [
+        "37c643e0-0fa8-44d8-bd47-ebf9b6c84779"
+      ],
       "settings": {
         "image": "shopify:\/\/shop_images\/banner_image.png",
         "image_overlay_opacity": 0,
@@ -157,6 +169,26 @@
     },
     "164121524695fa28cd": {
       "type": "image-banner",
+      "blocks": {
+        "013fc026-13f1-4d4e-951a-bdc865cb5347": {
+          "type": "heading",
+          "settings": {
+            "heading": "ACCESSORIES",
+            "heading_size": "large"
+          }
+        },
+        "d1de096f-12bc-4d62-852d-2a341f9c96ea": {
+          "type": "text",
+          "settings": {
+            "text": "COMING SOON",
+            "text_style": "subtitle"
+          }
+        }
+      },
+      "block_order": [
+        "013fc026-13f1-4d4e-951a-bdc865cb5347",
+        "d1de096f-12bc-4d62-852d-2a341f9c96ea"
+      ],
       "settings": {
         "image": "shopify:\/\/shop_images\/Accessaries-1.png",
         "image_2": "shopify:\/\/shop_images\/Accessaries-2_B_W.png",
