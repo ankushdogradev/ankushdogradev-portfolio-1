@@ -2,7 +2,8 @@
   "sections": {
     "1641209549830cbeb2": {
       "type": "custom-video",
-      "settings": {}
+      "settings": {
+      }
     },
     "image_banner": {
       "type": "image-banner",
@@ -38,14 +39,14 @@
         "16412128086569b8aa-0": {
           "type": "heading",
           "settings": {
-            "heading": "Image with text",
+            "heading": "FRAME",
             "heading_size": "h1"
           }
         },
         "16412128086569b8aa-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "text": "<p>Mech formed steel providing superior ride quality<\/p>",
             "text_style": "body"
           }
         }
@@ -72,19 +73,20 @@
         "1641212985b04229ee-0": {
           "type": "heading",
           "settings": {
-            "heading": "Image with text",
+            "heading": "COCKPIT",
             "heading_size": "h1"
           }
         },
         "1641212985b04229ee-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "text": "<p>Shimano EZ fire Shifters and TPR grips for smooth riding<\/p>",
             "text_style": "body"
           }
         },
         "1641212985b04229ee-2": {
           "type": "button",
+          "disabled": true,
           "settings": {
             "button_label": "Button label",
             "button_link": ""
@@ -114,19 +116,20 @@
         "16412130758bc934b5-0": {
           "type": "heading",
           "settings": {
-            "heading": "Image with text",
+            "heading": "SEAT",
             "heading_size": "h1"
           }
         },
         "16412130758bc934b5-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "text": "<p>Sleek saddle for ergonomic comfort. Quick release seat post for micro adjust<\/p>",
             "text_style": "body"
           }
         },
         "16412130758bc934b5-2": {
           "type": "button",
+          "disabled": true,
           "settings": {
             "button_label": "Button label",
             "button_link": ""
