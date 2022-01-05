@@ -20,7 +20,7 @@
         "37c643e0-0fa8-44d8-bd47-ebf9b6c84779"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/banner_image.png",
+        "image": "shopify:\/\/shop_images\/banner_image.jpg",
         "image_overlay_opacity": 20,
         "image_height": "large",
         "adapt_height_first_image": true,
@@ -56,7 +56,7 @@
         "16412128086569b8aa-1"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/Featured_Image_1.png",
+        "image": "shopify:\/\/shop_images\/Featured_Image_1.jpg",
         "height": "adapt",
         "desktop_image_width": "large",
         "layout": "image_first",
@@ -99,7 +99,7 @@
         "1641212985b04229ee-2"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/Featured_Image_2.png",
+        "image": "shopify:\/\/shop_images\/Featured_Image_2.jpg",
         "height": "adapt",
         "desktop_image_width": "large",
         "layout": "text_first",
@@ -142,7 +142,7 @@
         "16412130758bc934b5-2"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/Featured_Image_3.png",
+        "image": "shopify:\/\/shop_images\/Featured_Image_3.jpg",
         "height": "adapt",
         "desktop_image_width": "large",
         "layout": "image_first",
@@ -192,8 +192,8 @@
         "d1de096f-12bc-4d62-852d-2a341f9c96ea"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/Accessaries-1.png",
-        "image_2": "shopify:\/\/shop_images\/Accessaries-2_B_W.png",
+        "image": "shopify:\/\/shop_images\/Accessaries-1.jpg",
+        "image_2": "shopify:\/\/shop_images\/Accessaries-2_B_W.jpg",
         "image_overlay_opacity": 40,
         "image_height": "small",
         "adapt_height_first_image": false,
