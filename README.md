@@ -1,4 +1,4 @@
-# Shopify Theme Portfolio
+# Shopify Theme
 
 ![ankushdogradev-portfolio-1-home-page](https://user-images.githubusercontent.com/75878788/148174347-6c45da74-3c0d-46c3-9456-981392dd8c49.jpeg)
 
